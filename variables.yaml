@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.daws76s.online # submit your host
-REDIS_HOST: redis.daws76s.online
-MYSQL_HOST: mysql.daws76s.online
-RABBITMQ_HOST: rabbitmq.daws76s.online
-CATALOGUE_HOST: catalogue.daws76s.online
-USER_HOST: user.daws76s.online
-CART_HOST: cart.daws76s.online
-SHIPPING_HOST: shipping.daws76s.online
-PAYMENT_HOST: payment.daws76s.online
-DISPATCH_HOST: dispatch.daws76s.online
+MONGODB_HOST: mongodb.roboriya.shop # submit your host
+REDIS_HOST: redis.roboriya.shop
+MYSQL_HOST: mysql.roboriya.shop
+RABBITMQ_HOST: rabbitmq.roboriya.shop
+CATALOGUE_HOST: catalogue.roboriya.shop
+USER_HOST: user.roboriya.shop
+CART_HOST: cart.roboriya.shop
+SHIPPING_HOST: shipping.roboriya.shop
+PAYMENT_HOST: payment.roboriya.shop
+DISPATCH_HOST: dispatch.roboriya.shop
